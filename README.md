@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo"/>
 </p>
 
-<h1 align="center">🔧 FocusAuto — Real-Time Car Service Status Tracking</h1>
+<h1 align="center">🔧 FocusAuto — WebBased Car Service Status Tracking</h1>
 
 <p align="center">
   A web-based real-time vehicle service tracking system built for FocusAuto Repair Shop Kalasey.
@@ -23,10 +23,10 @@
 
 ## 📖 About This Project
 
-**FocusAuto** is a web-based real-time car service status tracking system developed as an undergraduate thesis project. The system was built to address the operational challenges at **FocusAuto Repair Shop Kalasey**, where service progress updates were previously delivered manually through WhatsApp and phone calls — causing delays, inconsistency, and lack of transparency for customers.
+**FocusAuto** is a web-based near real-time car service status tracking system developed as an undergraduate thesis project. The system was built to address the operational challenges at **FocusAuto Repair Shop Kalasey**, where service progress updates were previously delivered manually through WhatsApp and phone calls — causing delays, inconsistency, and lack of transparency for customers.
 
 This system allows:
-- **Admins** to manage customer data, update service progress in real time, and generate invoices.
+- **Admins** to manage customer data, update service progress in near real time, and generate invoices.
 - **Customers** to independently monitor their vehicle's service status, view invoices, and access service history — all through a clean, mobile-friendly web interface.
 
 The system was developed using the **Rapid Application Development (RAD)** methodology and evaluated using **Blackbox Testing** and the **System Usability Scale (SUS)**, achieving an average SUS score of **85.25 (Excellent)**.
